@@ -1,0 +1,72 @@
+
+./run_experiments -o abt1.csv -m 1000 -l 0.1 -c 0.2 -t 50 -w 0 -p ~/cse489589_assignment2/nlopes/abt
+./run_experiments -o abt2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 0 -p ~/cse489589_assignment2/nlopes/abt
+./run_experiments -o abt4.csv -m 1000 -l 0.4 -c 0.2 -t 50 -w 0 -p ~/cse489589_assignment2/nlopes/abt
+./run_experiments -o abt5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 0 -p ~/cse489589_assignment2/nlopes/abt
+./run_experiments -o abt6.csv -m 1000 -l 0.6 -c 0.2 -t 50 -w 0 -p ~/cse489589_assignment2/nlopes/abt
+./run_experiments -o abt8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 0 -p ~/cse489589_assignment2/nlopes/abt
+
+
+
+./run_experiments -o gbn10_1.csv -m 1000 -l 0.1 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn10_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn10_4.csv -m 1000 -l 0.4 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn10_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn10_6.csv -m 1000 -l 0.6 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn10_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/gbn
+
+
+
+./run_experiments -o gbn50_1.csv -m 1000 -l 0.1 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn50_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn50_4.csv -m 1000 -l 0.4 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn50_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn50_6.csv -m 1000 -l 0.6 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn50_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/gbn
+
+
+
+./run_experiments -o sr10_1.csv -m 1000 -l 0.1 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr10_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr10_4.csv -m 1000 -l 0.4 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr10_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr10_6.csv -m 1000 -l 0.6 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr10_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 10 -p ~/cse489589_assignment2/nlopes/sr
+
+
+./run_experiments -o sr50_1.csv -m 1000 -l 0.1 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr50_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr50_4.csv -m 1000 -l 0.4 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr50_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr50_6.csv -m 1000 -l 0.6 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr50_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 50 -p ~/cse489589_assignment2/nlopes/sr
+
+
+
+./run_experiments -o gbn100_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 100 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn100_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 100 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn100_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 100 -p ~/cse489589_assignment2/nlopes/gbn
+
+./run_experiments -o gbn200_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 200 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn200_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 200 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn200_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 200 -p ~/cse489589_assignment2/nlopes/gbn
+
+./run_experiments -o gbn500_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 500 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn500_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 500 -p ~/cse489589_assignment2/nlopes/gbn
+./run_experiments -o gbn500_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 500 -p ~/cse489589_assignment2/nlopes/gbn
+
+
+
+
+
+./run_experiments -o sr100_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 100 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr100_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 100 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr100_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 100 -p ~/cse489589_assignment2/nlopes/sr
+
+./run_experiments -o sr200_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 200 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr200_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 200 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr200_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 200 -p ~/cse489589_assignment2/nlopes/sr
+
+./run_experiments -o sr500_2.csv -m 1000 -l 0.2 -c 0.2 -t 50 -w 500 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr500_5.csv -m 1000 -l 0.5 -c 0.2 -t 50 -w 500 -p ~/cse489589_assignment2/nlopes/sr
+./run_experiments -o sr500_8.csv -m 1000 -l 0.8 -c 0.2 -t 50 -w 500 -p ~/cse489589_assignment2/nlopes/sr
